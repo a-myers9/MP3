@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TestRunMP3.vcxproj" Id="6a4f9b7c-34fd-493e-a2be-f40d1c9784b5" />
+</Solution>
