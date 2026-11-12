@@ -247,4 +247,3 @@ int indexOfLargest(double values[], int count) {
 	}
 	return largest;
 }
-
